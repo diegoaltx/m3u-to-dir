@@ -1,7 +1,7 @@
 {
   "name": "m3u-to-dir",
   "version": "1.0.0",
-  "description": "Utility to normalize/copy files from a m3u list to a destination directory.",
+  "description": "Utility to normalize/copy files from a m3u playlist to a destination directory.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
