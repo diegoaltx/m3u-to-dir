@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:105, Example artist 1 - Example title 1
+./sample1.mp3
+#EXTINF:160, Example artist 2 - Example title 2
+./sample2.mp3
